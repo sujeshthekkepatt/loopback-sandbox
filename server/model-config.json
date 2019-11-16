@@ -31,5 +31,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "usermodel": {
+    "dataSource": "db",
+    "public": true
+  },
+  "myanothermodel": {
+    "dataSource": "db",
+    "public": true
   }
 }
